@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App WebView</string>
+    <string name="top_bar_title">My App Web View</string>
+    <string name="refresh_content_description">Refresh page</string>
+</resources>
